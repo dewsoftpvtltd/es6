@@ -1,0 +1,25 @@
+{
+  "name": "es6-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "buble-loader": "^0.2.2",
+    "webpack": "^2.1.0-beta.20"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dewsoftpvtltd/es6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dewsoftpvtltd/es6/issues"
+  },
+  "homepage": "https://github.com/dewsoftpvtltd/es6#readme"
+}
